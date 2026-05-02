@@ -22,5 +22,5 @@ NumPy: [YouTube](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8zmegfAUfFMiAC
 
 Телеграм-чат: https://t.me/machine_learning_selfedu
 
-MAX-канал: machine_learning_selfedu
+MAX-канал: [machine_learning_selfedu](https://max.ru/join/P4xN3U-oHvKqQNjkXe30mSKed2sxAdkJI8bzdw5Vj-k)
 
