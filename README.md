@@ -14,7 +14,7 @@ https://stepik.org/course/209247/
 
 Также желательно хорошо знать пакет NumPy для работы с векторами и матрицами:
 
-NumPy: YouTube | RuTube
+NumPy: [YouTube](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8zmegfAUfFMiACPKfdW4ifD) | RuTube
 
 Продолжение этого курса: Добрый, добрый ИИ. Часть 2. Нейронные сети на PyTorch 
 
